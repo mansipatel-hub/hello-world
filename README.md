@@ -9,4 +9,6 @@ regards.
 
 Trying to connect jenkins and octopus.
 
-just trying with API key
+just trying with API key.
+
+automate release feature through jenkins
