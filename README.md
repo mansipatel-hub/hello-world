@@ -15,4 +15,4 @@ automate release feature through jenkins
 
 deploying a release on Dev.
 
-trying again.
+trying again with feature branch.
